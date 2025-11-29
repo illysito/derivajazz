@@ -1,8 +1,5 @@
-import animateTitle from './features/animateTitle'
-import createBadge from './features/createBasge'
-import './styles/style.css'
+import canvas from './features/canvas'
 
-console.log('Welcome to Vite + JS + Webflow!')
+console.log('yeka')
 
-createBadge()
-animateTitle()
+canvas()
