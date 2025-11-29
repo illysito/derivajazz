@@ -1,5 +1,4 @@
 import gsap from 'gsap'
-
 import * as THREE from 'three'
 
 // LUIS
@@ -17,7 +16,6 @@ import * as THREE from 'three'
 // WEB
 import img from './derivaWeb2.jpg'
 import distortion from './derivaWebMask2.jpg'
-
 import perlinNoise from './PerlinNoise.jpg'
 import bg from './derivaWebBG.jpg'
 
